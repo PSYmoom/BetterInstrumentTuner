@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">BetterInstrumentTuner</string>
+    <string name="possibleString">A</string>
+    <string name="possibleHertz">123</string>
+    <string name="hz">Hz</string>
+    <string name="suggestion">Perfect!</string>
+    <string name="title1">The all new and improved.</string>
+    <string name="title2">Better</string>
+    <string name="title3">Instrument</string>
+    <string name="title4">Tuner</string>
+    <string name="title5">A PSYubdul Productions</string>
+    <string name="title6">Click the buttons to navigate to your desired page</string>
+    <string name="title7">To keep our company growing and our aspiring programmers motivated, please support them by giving them a 4+ :)</string>
+    <string name="title8">Information</string>
+    <string name="guitar_tuner">Click on the leftmost button to access the guitar tuner</string>
+    <string name="violin_tuner">Click on the rightmost button to access the violin tuner</string>
+    <string name="instruction1">Guitar Tuner</string>
+    <string name="instruction2">Violin Tuner</string>
+    <string name="information">Has Information about the @string/app_name</string>
+    <string name="info1">How to use:</string>
+    <string name="info2">The Better Guitar Tuner</string>
+    <string name="info3">It\'s as simple as 1, 2, 3s!</string>
+    <string name="info4">1: Pick your instrument</string>
+    <string name="info5">2: Play your instrument in a quiet environment</string>
+    <string name="info6">3: Tune your instrument as the app instructs till you hit "Perfect!"</string>
+    <string name="info7">A PSYubdul Production</string>
+    <string name="disclaimer">Note: If the tuner froze when you launched it, the only way to get it back working is by restarting the app. Sorry for the inconvenience that it may have caused. For more information on this potential bug, please consult the ICS4U Summative Timetable.</string>
+    <string name="info8">Note: Please allow the app to access your microphone if you want the app to run.</string>
+    <string name="info9">For detailed information, please consult the app\'s User Manual</string>
+</resources>
